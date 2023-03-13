@@ -1,8 +1,6 @@
 from concurrent import futures
-
 import grpc
 import time
-
 import chat_pb2
 import chat_pb2_grpc
 
